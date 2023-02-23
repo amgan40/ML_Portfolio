@@ -16,4 +16,4 @@ Projet 6 : Classez des images à l'aide d'algorithmes de Deep Learning
 
 Projet 7 : Développez une preuve de concept (Segmentation d'images sous-marines)
 
-Projet 8 : Participez à une compétition Kaggle}
+Projet 8 : Participez à une compétition Kaggle
