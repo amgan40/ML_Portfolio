@@ -48,3 +48,9 @@ Notions utilisées :
 - statistique descriptive / Analyse en Composantes Principales
 - Language Python
 - Librairie Pandas, Numpy, Scipy et sklearn.
+
+
+## [Projet: Anticipez les besoins en consommation électrique de bâtiments](https://github.com/Bounkass/P3_OC_Parcours_IML)
+
+Pour atteindre son objectif de ville neutre en émissions de carbone en 2050, la ville de Seattle a besoin de vous. La mission est de :
+Prédire la consommation électrique des bâtiments municipaux.
