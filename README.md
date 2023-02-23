@@ -21,3 +21,13 @@ Projet 8 : Participez à une compétition Kaggle
 	
 ## [Projet: Concevez une application au service de la santé publique](https://github.com/Bounkass/P2_OC_Parcours_IML)
 L'agence "Santé publique France" a lancé un appel à projet autour des problématiques alimentaires. Vous proposerez une application basée sur des données nutritionnelles.
+
+- Compétences développées
+
+- Effectuer des opérations de nettoyage sur des données structurées
+
+- Communiquer ses résultats à l’aide de représentations graphiques lisibles et pertinentes
+
+- Effectuer une analyse statistique multivariée
+
+- Effectuer une analyse statistique univariée
