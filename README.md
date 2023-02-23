@@ -23,10 +23,7 @@ Projet 8 : Participez à une compétition Kaggle
 ## [Projet: Concevez une application au service de la santé publique](https://github.com/Bounkass/P2_OC_Parcours_IML)
 L'agence "Santé publique France" a lancé un appel à projet autour des problématiques alimentaires. Vous proposerez une application basée sur des données nutritionnelles.
 
-<p align="center">
-  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/appli2.png">
-</p>
-	
+
 Compétences développées:
 
 - Effectuer des opérations de nettoyage sur des données structurées
@@ -36,6 +33,15 @@ Compétences développées:
 - Effectuer une analyse statistique multivariée
 
 - Effectuer une analyse statistique univariée
+
+L'application proposée **nutri-vegan** permet d'abord de savoir si un aliment convient pour un régime végétarien ou végitalien, en fonction des ingrédients d'orogine animale contenants dans le produit. Cette étape est réalisée uns fois scanner le code-barres du produit. En suite l'application propose le score nutritinelle du produits vegan, détaille ses ingrédients et estime sa composition nutritionnelles, notamment les micro-nutriments. L'application ainsi peut recommander d'autre produits de la même famille qui contient plus de teneur en macro et micro-nutriments notamment le fer le calcium et de la vitamine c.
+
+<p align="center">
+  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/appli2.png">
+</p>
+<p align="center">
+  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/Mcorr.bmp">
+</p>	
 
 Notions utilisées :
 
