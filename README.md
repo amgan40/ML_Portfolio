@@ -31,6 +31,7 @@ Compétences développées:
 - Effectuer une analyse statistique multivariée
 
 - Effectuer une analyse statistique univariée
+
 Notions utilisées :
 
 - statistique descriptive / Analyse en Composantes Principales
