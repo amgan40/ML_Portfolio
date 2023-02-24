@@ -73,9 +73,9 @@ Source des données : https://www.kaggle.com/olistbr/brazilian-ecommerce
 Essais de clustering par différents algorithmes (KMeans, Clustering Hiérarchique, DBScan)
 
 <p float="left">
-  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/RFMolist.png" width="45%" height="66%"/>
-  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/clusterkm.png" width="45%" height="66%"/>	
+  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/RFMolist.png" width="45%" height="85%"/>
+  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/clusterkm.png" width="45%" height="65%"/>	
 </p>
 <p align="center">
-  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/radial_cl.png"  width="55%" height="55%"/>
+  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/radial_cl.png"  width="45%" height="45%"/>
 </p>
