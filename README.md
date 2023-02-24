@@ -32,12 +32,9 @@ L'agence "Santé publique France" a lancé un appel à projet autour des problé
 
 L'application proposée **nutri-vegan** permet d'abord de savoir si un aliment convient pour un régime végétarien ou végitalien, en fonction des ingrédients d'orogine animale contenants dans le produit. Cette étape est réalisée uns fois scanner le code-barres du produit. En suite l'application propose le score nutritinelle du produits vegan, détaille ses ingrédients et estime sa composition nutritionnelles, notamment les micro-nutriments. L'application ainsi peut recommander d'autre produits de la même famille qui contient plus de teneur en macro et micro-nutriments notamment le fer le calcium et de la vitamine c.
 
-<p align="center">
-  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/appli2.png" width="60%" height="60%">
-</p>
-<p align="center">
-  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/Mcorr.png" width="75%" height="75%">
-</p>	
+
+  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/appli2.png" width="50%" height="50%">
+  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/Mcorr.png" width="70%" height="70%">	
 
 ### Notions utilisées :
 
@@ -51,7 +48,7 @@ L'application proposée **nutri-vegan** permet d'abord de savoir si un aliment c
 Pour atteindre son objectif de ville neutre en émissions de carbone en 2050, la ville de Seattle a besoin de vous. La mission est de :
 Prédire la consommation électrique des bâtiments municipaux.
 <p align="center">
-  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/city_seattle.png" width="85%" height="85%">
+  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/city_seattle.png" width="65%" height="65%">
 </p>
 <p align="center">
   <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/GBR_RFR.png">
