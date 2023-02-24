@@ -40,13 +40,14 @@ L'application proposée **nutri-vegan** permet d'abord de savoir si un aliment c
 
 ## [Projet: Anticipez les besoins en consommation électrique de bâtiments](https://github.com/Bounkass/P3_OC_Parcours_IML)
 
-La ville de Seatlle veut atteindre son objectif ambitieux d'une ville neutre en émissions de carbone en 2050. Elle s’intéresse de près aux émissions des bâtiments non destinés à l’habitation. Des relevés minutieux ont été effectués par des agents experts en 2015 et en 2016. Cependant, ces relevés sont coûteux à obtenir pour chaque année, ainsi en se basant sur ceux déjà réalisés, la ville souhaite dans un premier temps de:
+La ville de Seatlle veut atteindre son objectif ambitieux d'une ville neutre en émissions de carbone en 2050. Elle s’intéresse aux émissions des bâtiments non destinés à l’habitation. Des relevés minutieux ont été effectués par des agents experts en 2015 et 2016. Cependant, ces relevés sont coûteux à obtenir pour chaque année, ainsi en se basant sur ceux déjà réalisés, la ville souhaite dans un premier temps:
 
 - Prédire les émissions de Co2 et la consommation totale de l'énergie des bâtiments pour lesquels elles n’ont pas encore été mesurées.
 - Evaluer l'influence de feature Star Energy Score sur les prédictions.
+
 Source des données : https://www.kaggle.com/city-of-seattle/sea-building-energy-benchmarking#2015-building-energy-benchmarking.csv
 
-### Contenu des  livrables:
+### réalisations du projet:
 - Préparation des données 
 - Entraînement de différents algorithmes de machine learning (Regresion linéaire, SVR, XGBoost, Random Forest Regressor)
 - Optimisation des hyperparamètres
