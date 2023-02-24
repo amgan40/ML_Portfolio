@@ -36,7 +36,7 @@ L'application proposée **nutri-vegan** permet d'abord de savoir si un aliment c
   <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/appli2.png" width="60%" height="60%">
 </p>
 <p align="center">
-  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/Mcorr.png" width="60%" height="60%">
+  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/Mcorr.png" width="75%" height="75%">
 </p>	
 
 ### Notions utilisées :
