@@ -1,7 +1,6 @@
 # Machine Learning Portfolio
 	
-Voici mon Portfolio contenant des projets de Machine Learning/ Data Science que j'ai pu réaliser. Ils ont été réalisé dans le cadre d'une formation "Ingénieur Machine Learning" d'Openclassrooms que je viens de finaliser. Ce parcours de formation est réalisé en partenariat avec l’ENSAE-ENSAI. 
-Ce parcours d'Openclassrooms en partenariat avec CentraleSupélec est constitué de ces huits projets ci-dessus. La finalité est l'obtention un titre "Data scientist" de type RNCP:
+Voici mon Portfolio contenant des projets de Machine Learning/Data Science que j'ai réalisé. Ils ont été réalisé dans le cadre d'une formation "Ingénieur Machine Learning" d'Openclassrooms que je viens de finaliser. Ce parcours d'Openclassrooms en partenariat avec CentraleSupélec est constitué de ces huits projets ci-dessus. La finalité est l'obtention un titre "Data scientist" de type RNCP:
 
 Projet 1 : Définissez votre stratégie d'apprentissage
 
@@ -33,10 +32,9 @@ L'agence "Santé publique France" a lancé un appel à projet autour des problé
 L'application proposée **nutri-vegan** permet d'abord de savoir si un aliment convient pour un régime végétarien ou végitalien, en fonction des ingrédients d'orogine animale contenants dans le produit. Cette étape est réalisée uns fois scanner le code-barres du produit. En suite l'application propose le score nutritinelle du produits vegan, détaille ses ingrédients et estime sa composition nutritionnelles, notamment les micro-nutriments. L'application ainsi peut recommander d'autre produits de la même famille qui contient plus de teneur en macro et micro-nutriments notamment le fer le calcium et de la vitamine c.
 
 <p float="left">
-  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/appli2.png" width="44%" height="55%"/>
+  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/appli2.png" width="40%" height="45%"/>
   <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/Mcorr.png" width="54%" height="65%"/>	
 </p>
-
 
 ## [Projet: Anticipez les besoins en consommation électrique de bâtiments](https://github.com/Bounkass/P3_OC_Parcours_IML)
 
@@ -72,5 +70,12 @@ Fournir à l’équipe marketing une description actionable de votre segmentatio
 Proposition de contrat de maintenance basée sur une analyse de la stabilité des segments au cours du temps.
 Source des données : https://www.kaggle.com/olistbr/brazilian-ecommerce
 
-
 Essais de clustering par différents algorithmes (KMeans, Clustering Hiérarchique, DBScan)
+
+<p float="left">
+  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/RFMolist.png" width="80%" height="85%"/>
+  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/clusterkm.png" width="80%" height="85%"/>	
+</p>
+<p align="center">
+  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/radial_cl.png"  width="80%" height="85%"/>
+</p>
