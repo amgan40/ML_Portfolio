@@ -46,8 +46,20 @@ L'application proposée **nutri-vegan** permet d'abord de savoir si un aliment c
 
 ## [Projet: Anticipez les besoins en consommation électrique de bâtiments](https://github.com/Bounkass/P3_OC_Parcours_IML)
 
-Pour atteindre son objectif de ville neutre en émissions de carbone en 2050, la ville de Seattle a besoin de vous. La mission est de :
-Prédire la consommation électrique des bâtiments municipaux.
+La ville de Seatlle veut atteindre son objectif ambitieux d'une ville neutre en émissions de carbone en 2050. Elle s’intéresse de près aux émissions des bâtiments non destinés à l’habitation. Des relevés minutieux ont été effectués par des agents experts en 2015 et en 2016. Cependant, ces relevés sont coûteux à obtenir pour chaque année, ainsi en se basant sur ceux déjà réalisés, la ville souhaite dans un premier temps de:
+
+- Prédire les émissions de Co2 et la consommation totale de l'énergie des bâtiments pour lesquels elles n’ont pas encore été mesurées.
+- Evaluer l'influence de feature Star Energy Score sur les prédictions.
+Source des données : https://www.kaggle.com/city-of-seattle/sea-building-energy-benchmarking#2015-building-energy-benchmarking.csv
+
+### Contenu des  livrables:
+- Préparation des données 
+- Entraînement de différents algorithmes de machine learning (Regresion linéaire, SVR, XGBoost, Random Forest Regressor)
+- Optimisation des hyperparamètres
+- Recherche d'importance des features
+- Mise en oeuvre du modèle optimal pourla  prédiction de consommation et émissions de C02
+- Evaluer l'influence de feature Star Energy Score sur les prédictions
+
 <p align="center">
   <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/city_seattle.png" width="55%" height="55%">
 </p>
