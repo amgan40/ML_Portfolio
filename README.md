@@ -50,3 +50,9 @@ L'application proposée **nutri-vegan** permet d'abord de savoir si un aliment c
 
 Pour atteindre son objectif de ville neutre en émissions de carbone en 2050, la ville de Seattle a besoin de vous. La mission est de :
 Prédire la consommation électrique des bâtiments municipaux.
+<p align="center">
+  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/city_seattle.png" width="85%" height="85%">
+</p>
+<p align="center">
+  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/GBR_RFR.png">
+</p>
