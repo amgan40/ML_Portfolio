@@ -37,12 +37,6 @@ L'application proposée **nutri-vegan** permet d'abord de savoir si un aliment c
   <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/Mcorr.png" width="54%" height="65%"/>	
 </p>
 
-### Notions utilisées :
-
-- Statistique descriptive/ Analyse multidimensionnelle (PCA, ANOVA)
-- Language Python
-- Librairie Pandas, Numpy, Scipy et sklearn.
-
 
 ## [Projet: Anticipez les besoins en consommation électrique de bâtiments](https://github.com/Bounkass/P3_OC_Parcours_IML)
 
@@ -57,11 +51,11 @@ Source des données : https://www.kaggle.com/city-of-seattle/sea-building-energy
 - Entraînement de différents algorithmes de machine learning (Regresion linéaire, SVR, XGBoost, Random Forest Regressor)
 - Optimisation des hyperparamètres
 - Recherche d'importance des features
-- Mise en oeuvre du modèle optimal pourla  prédiction de consommation et émissions de C02
-- Evaluer l'influence de feature Star Energy Score sur les prédictions
+- Mise en oeuvre du modèle optimal pour la  prédiction de consommation et émissions de C02
+- Evaluation de  l'influence de feature Star Energy Score sur les prédictions
 
 <p align="center">
-  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/city_seattle.png" width="55%" height="55%">
+  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/city_seattle.png" width="65%" height="45%">
 </p>
 <p align="center">
   <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/GBR_RFR.png">
