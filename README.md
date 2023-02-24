@@ -45,7 +45,7 @@ L'application proposée **nutri-vegan** permet d'abord de savoir si un aliment c
 
 Notions utilisées :
 
-- statistique descriptive / Analyse en Composantes Principales
+- Statistique descriptive/ Analyse multidimensionnelle (PCA, ANOVA)
 - Language Python
 - Librairie Pandas, Numpy, Scipy et sklearn.
 
