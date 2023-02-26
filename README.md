@@ -54,27 +54,28 @@ Source des données : https://www.kaggle.com/city-of-seattle/sea-building-energy
 - Evaluation de  l'influence de feature Star Energy Score sur les prédictions
 
 <p align="center">
-  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/city_seattle.png" width="65%" height="45%">
+  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/city_seattle.png" width="55%" height="40%">
 </p>
 <p align="center">
   <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/GBR_RFR.png">
 </p>
 
 ## [Projet: Segmentez-des-clients-d-un-site-e-commerce](https://github.com/Bounkass/Segmentez-des-clients-d-un-site-e-commerce)
-Segmentation des clients pour le site e-commerce OLIST.
+Segmentation des clients pour le site e-commerce Brazilien OLIST. Source des données : https://www.kaggle.com/olistbr/brazilian-ecommerce
 
-Comprendre les différents types d’utilisateurs grâce à leur comportement et à leurs données personnelles.
+### Les objectifs
 
-Fournir à l’équipe marketing une description actionable de votre segmentation et de sa logique sous-jacente pour une utilisation optimale.
+- Comprendre les différents types d’utilisateurs grâce à leur comportement et leurs données personnelles.
 
-Proposition de contrat de maintenance basée sur une analyse de la stabilité des segments au cours du temps.
-Source des données : https://www.kaggle.com/olistbr/brazilian-ecommerce
+- Essais de clustering par différents algorithmes (KMeans, Clustering Hiérarchique, DBScan)
 
-Essais de clustering par différents algorithmes (KMeans, Clustering Hiérarchique, DBScan)
+- Fournir à l’équipe marketing une description actionable de votre segmentation et de sa logique sous-jacente pour une utilisation optimale.
+
+- Proposition de contrat de maintenance basée sur une analyse de la stabilité des segments au cours du temps.
 
 <p float="left">
   <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/RFMolist.png" width="45%" height="85%"/>
-  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/clusterkm.png" width="45%" height="65%"/>	
+  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/clusterkm.png" width="45%" height="45%"/>	
 </p>
 <p align="center">
   <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/radial_cl.png"  width="45%" height="45%"/>
