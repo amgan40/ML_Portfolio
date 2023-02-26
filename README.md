@@ -74,9 +74,9 @@ Segmentation des clients pour le site e-commerce Brazilien OLIST. Source des don
 - Proposition de contrat de maintenance basée sur une analyse de la stabilité des segments au cours du temps.
 
 <p float="left">
-  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/RFMolist.png" width="45%" height="85%"/>
+  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/RFMolist.png" width="45%" height="45%"/>
   <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/clusterkm.png" width="45%" height="45%"/>	
 </p>
 <p align="center">
-  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/radial_cl.png"  width="45%" height="45%"/>
+  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/radial_cl.png"  width="45%" height="55%"/>
 </p>
