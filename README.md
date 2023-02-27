@@ -60,10 +60,10 @@ Source des données : https://www.kaggle.com/city-of-seattle/sea-building-energy
   <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/GBR_RFR.png">
 </p>
 
-## [Projet: Segmentez-des-clients-d-un-site-e-commerce](https://github.com/Bounkass/Segmentez-des-clients-d-un-site-e-commerce)
+## [Projet: Segmentez des clients d'un site e-commerce](https://github.com/Bounkass/Segmentez-des-clients-d-un-site-e-commerce)
 Segmentation des clients pour le site e-commerce Brazilien OLIST. Source des données : https://www.kaggle.com/olistbr/brazilian-ecommerce
 
-### Les objectifs
+### Les objectifs:
 
 - Comprendre les différents types d’utilisateurs grâce à leur comportement et leurs données personnelles.
 
@@ -80,3 +80,18 @@ Segmentation des clients pour le site e-commerce Brazilien OLIST. Source des don
 <p align="center">
   <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/radial_cl.png"  width="45%" height="55%"/>
 </p>
+
+
+## [Projet: Categoriser-automatiquement-des-questions](https://github.com/Bounkass/Categoriser-automatiquement-des-questions)
+
+L'objectif de ce projet est de développer un système automatique de suggestion de tags pour le 
+site Stack Overflow. En assignant automatiquement plusieurs tags pertinents à une question proposer par des utilisateurs moins expérimentés.
+
+La mission de ce projet:
+
+- Réaliser le pétraitement des questions (documents) issues des données de l'API stackexchange-explorer
+
+- Comparer des approches suppervisées (LR, KNN, SVM, RF, Gboust) et non supervisées (LDA, NMA) avec plusieurs tests de méthodes d'extraction de features. Notamment, une approche de type bag-of-words, et 3 approches de Word/Sentence Embedding Word2Vec, BERT et USE.
+
+- Développer une API et la mettre en production.
+
