@@ -105,7 +105,7 @@ La mission de ce projet:
 
 L'objectif de ce projet est la comparaison d'un modèle CNN from "Scratch" et des modèles CNN pré-entrainé utilisant du "transfer learning". Les données: nn utilise le "Stanford Dogs Dataset", http://vision.stanford.edu/aditya86/ImageNetDogs/. Ce dataset est constitué de 20 580 images de chiens triées en 120 races.
 
-### La démarche de l'entraînements de façon suivante:
+### Les démarches de l'entraînement sont:
 
 - Modèle initial "from scratch" avec du préprocessing: égalisation et le débruitage, on introduit aussi de la data augmentation, l'ajout du dropout et de batchnormalization.
 
@@ -115,5 +115,5 @@ L'objectif de ce projet est la comparaison d'un modèle CNN from "Scratch" et de
 
 <p float="left">
   <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/matC.png" width="80%" height="75%"/>
-  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/dog_pred.png" width="80%" height="55%"/>	
+  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/dog_pred.png" width="80%" height="65%"/>	
 </p>
