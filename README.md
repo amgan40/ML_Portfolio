@@ -113,3 +113,7 @@ L'objectif de ce projet est la comparaison d'un modèle CNN from "Scratch" et de
 
 -Le meileur modèle est intégré dans une api développée à l'aide du framework gradio.
 
+<p float="left">
+  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/matC.png" width="80%" height="75%"/>
+  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/dog_pred.png" width="80%" height="55%"/>	
+</p>
