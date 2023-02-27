@@ -95,3 +95,7 @@ La mission de ce projet:
 
 - Développer une API et la mettre en production.
 
+<p float="left">
+  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/comp0.png" width="48%" height="75%"/>
+  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/ap0.png" width="48%" height="75%"/>	
+</p>
