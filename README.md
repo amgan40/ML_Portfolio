@@ -99,3 +99,17 @@ La mission de ce projet:
   <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/comp0.png" width="54%" height="65%"/>
   <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/ap0.png" width="45%" height="65%"/>	
 </p>
+
+
+## [Projet: Classez des images à l'aide de Deep-Learning]() https://github.com/Bounkass/Classez-des-images-l-aide-de-Deep-Learning
+
+L'objectif de ce projet est la comparaison d'un modèle CNN from "Scratch" et des modèles CNN pré-entrainé utilisant du "transfer learning". Les données: nn utilise le "Stanford Dogs Dataset", http://vision.stanford.edu/aditya86/ImageNetDogs/. Ce dataset est constitué de 20 580 images de chiens triées en 120 races.
+
+### La démarche de l'entraînements de façon suivante:
+
+- Modèle initial "from scratch" avec du préprocessing: égalisation et le débruitage, on introduit aussi de la data augmentation, l'ajout du dropout et de batchnormalization.
+
+-Transfer learning modèle avec des modèles préentrainés sur ImageNet. Notemment, les modèles VGG19, ResNet50, EffecientNetB3 et Xception. Dans ce cadre on supprime la couche dense et on congèle une partie ou la totalité des autre couche
+
+-Le meileur modèle est intégré dans une api développée à l'aide du framework gradio.
+
