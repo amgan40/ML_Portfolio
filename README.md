@@ -78,7 +78,7 @@ Segmentation des clients pour le site e-commerce Brazilien OLIST. Source des don
   <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/clusterkm.png" width="45%" height="45%"/>	
 </p>
 <p align="center">
-  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/radial_cl.png"  width="45%" height="55%"/>
+  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/radial_cl.png"  width="55%" height="65%"/>
 </p>
 
 
@@ -96,6 +96,6 @@ La mission de ce projet:
 - Développer une API et la mettre en production.
 
 <p float="left">
-  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/comp0.png" width="48%" height="75%"/>
-  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/ap0.png" width="48%" height="75%"/>	
+  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/comp0.png" width="54%" height="65%"/>
+  <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/ap0.png" width="45%" height="65%"/>	
 </p>
