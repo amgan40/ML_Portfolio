@@ -131,3 +131,6 @@ L’objectif est de comparer, de vérifier l'efficacité de ce modèle sur des i
 <p align="center">
   <img src="https://github.com/Bounkass/ML_Portfolio/blob/main/images/test_unet.png" width="85%" height="70%">
 </p>
+
+
+## [Projet: Participez-a-une-competition-Kaggle](https://github.com/Bounkass/Participez-a-une-competition-Kaggle)
